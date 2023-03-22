@@ -6,10 +6,10 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
   
-<img align="right" width="250" src="https://share.icloud.com/photos/069cE9Ztj8-y4LEjT0gO5ELNw" />
+<img align="right" width="100" src="https://i.ibb.co/0MXqJMm/DFB0-F916-C1-DA-48-FF-B9-DD-F5-A6-F0-E87-EF5.gif" />
 
 <p>&emsp;&emsp;大家好，我是Hutao。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，但现在是个什么都不会的小菜鸡!</p>
+<p>&emsp;&emsp;热爱科技，但现在是个什么都不会的小菜鸡!</p>
 <p>&emsp;&emsp;长风破浪会有时，直挂云帆济沧海。一点一点学习中...</p>
 
 </td></tr>
