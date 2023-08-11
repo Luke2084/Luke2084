@@ -14,7 +14,7 @@ I love technology, but I'm just a novice who doesn't know anything!
 
 </table>
 
-![Metrics](https://metrics.lecoq.io/hutao571)
+![Metrics](https://metrics.lecoq.io/Luke2084)
   
 ## Magic Number
 
