@@ -18,4 +18,4 @@ I love technology, but I'm just a novice who doesn't know anything!
   
 ## Magic Number
 
-![Visited By](https://count.getloli.com/get/Luke2084?theme=asoul)
+![Visited By](/get/luke2084?theme=asoul)
